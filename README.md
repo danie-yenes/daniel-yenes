@@ -22,10 +22,11 @@ Claude Cowork · Claude Code · ChatGPT · GitHub Copilot · Gemini · Azure PSS
 Aggregates public signals, scores ICP fit and generates personalised
 outreach drafts autonomously. Compresses BD research from hours to minutes.
 
-**Investment analysis agent** (LLM-powered)
+**[Investment analysis agents — AAPL, NVIDIA, MICROSOFT, etc](https://github.com/danie-yenes/agente-aapl)**
+(Python · Claude API · Alpha Vantage · Finnhub · Render.com)
 Aggregates equity financial data, applies institutional valuation frameworks
 (Druckenmiller momentum, Lynch fundamentals) and generates buy/strong-buy
-signals with entry and exit timing alerts. End-to-end agentic design.
+signals with entry and exit timing alerts. Runs twice daily in production.
 
 ---
 
