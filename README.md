@@ -32,4 +32,5 @@ signals with entry and exit timing alerts. Runs twice daily in production.
 
 📍 Madrid, Spain
 🔗 [LinkedIn](https://linkedin.com/in/danielyenes)
+🔵 [Google Developer Profile](https://me.developers.google.com/u/me)
 📧 daniel.yenes@gmail.com
