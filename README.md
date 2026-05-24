@@ -10,8 +10,7 @@ adoption · Application modernisation · Agentic AI · LLM governance
 
 3 years positioning software intelligence as the deterministic governance
 and context layer for enterprise GitHub Copilot deployments — engaging
-CTOs, Heads of Engineering and Developer Experience leaders at Repsol,
-Bankia, AXA, Millennium BCP, El Corte Inglés and ADIF.
+CTOs, Heads of Engineering and Developer Experienced leaders.
 
 ### AI tools (certified)
 
