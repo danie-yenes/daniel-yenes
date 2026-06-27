@@ -8,7 +8,7 @@ adoption · Application modernisation · Agentic AI · LLM governance
 
 ### What I do
 
-4 years positioning software intelligence as the deterministic governance
+4+ years positioning software intelligence as the deterministic governance
 and context layer for enterprise GitHub Copilot deployments — engaging
 CTOs, Heads of Engineering and Developer Experienced leaders.
 
